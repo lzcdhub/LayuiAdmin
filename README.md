@@ -2,7 +2,7 @@
 
 iframe版本 http://4vz709.coding-pages.com/layuiAdmin.std-v1.2.1/src/views/
 
-iframe版本文档 (http://4vz709.coding-pages.com/layuiAdmin.std-v1.2.1/layuiAdmin std v1.x 【iframe 常规版】开发者文档.pdf)
+[iframe版本文档](http://4vz709.coding-pages.com/layuiAdmin.std-v1.2.1/layuiAdmin std v1.x 【iframe 常规版】开发者文档.pdf)
 
 单页版本 http://4vz709.coding-pages.com/layuiAdmin.pro-v1.2.1/start/
 
