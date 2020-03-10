@@ -14,7 +14,7 @@ layui.define(['laytpl', 'layer', 'element', 'util'], function(exports){
     ,views: layui.cache.base + 'views/' //视图所在目录
     ,entry: 'index' //默认视图文件名
     ,engine: '.html' //视图文件后缀名
-    ,pageTabs: false //是否开启页面选项卡功能。单页版不推荐开启
+    ,pageTabs: true //是否开启页面选项卡功能。单页版不推荐开启
     
     ,name: 'layuiAdmin Pro'
     ,tableName: 'layuiAdmin' //本地存储表名
@@ -133,7 +133,7 @@ layui.define(['laytpl', 'layer', 'element', 'util'], function(exports){
       
       //初始的颜色索引，对应上面的配色方案数组索引
       //如果本地已经有主题色记录，则以本地记录为优先，除非请求本地数据（localStorage）
-      ,initColorIndex: 0
+      ,initColorIndex: 5
     }
   });
 });
